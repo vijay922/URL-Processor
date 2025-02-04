@@ -43,9 +43,6 @@ Run the script with the following flags:
 ## Example
 ### Input (input.txt)
 ```
-[https://example.com/path/to/file.txt?ver=1.2
-https://example.com/path/to/file.txt
-https://example.com/path/](https://archive.example.com/stable/dists/bionic-updates/Release.gpg
 https://archive.example.com/stable/dists/bionic/InRelease
 https://chloe-ml.demo.example.com/comments/feed/
 https://hiltongrandvacations.xcc.example.com/wp-content/plugins/xcloud/app/components/leadcapture/modal-thank-you.html
@@ -60,9 +57,6 @@ https://www.test.com/newsroom/author/white-ops/page/1)
 
 ### Output (output.txt)
 ```
-[https://example.com/path/
-https://example.com/path/to/
-https://example.com/path/to/file.txt](https://archive.example.com/stable/
 https://archive.example.com/stable/dists/
 https://archive.example.com/stable/dists/bionic-updates/
 https://archive.example.com/stable/dists/bionic/
